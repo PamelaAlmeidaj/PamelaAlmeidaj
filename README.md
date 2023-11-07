@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Sou a Pâmela Almeida 👋
 
 <!--
 **PamelaAlmeidaj/PamelaAlmeidaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
