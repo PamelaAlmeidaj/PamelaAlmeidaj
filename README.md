@@ -20,7 +20,7 @@
   <a href = "mailto:pamelaalmeidaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamelaalmeidaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a> 
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/PamelaAlmeidaj/PamelaAlmeidaj/assets/150084610/93fbe2b7-357b-4845-9584-08299d5e37d2"
+   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://github.com/PamelaAlmeidaj/PamelaAlmeidaj/assets/150084610/93fbe2b7-357b-4845-9584-08299d5e37d2"
 
 
 </div>
