@@ -10,7 +10,7 @@
     <img align="center" alt="Rafa-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Rafa-CSS" height="140" width="98" src="https://github.com/PamelaAlmeidaj/PamelaAlmeidaj/assets/150084610/93fbe2b7-357b-4845-9584-08299d5e37d2"
+<img align="right" alt="Rafa-CSS" height="200" width="100" src="https://github.com/PamelaAlmeidaj/PamelaAlmeidaj/assets/150084610/93fbe2b7-357b-4845-9584-08299d5e37d2"
 
  </div> <br><br>
  - 🔭 Atualmente migrando de carreira<br>
