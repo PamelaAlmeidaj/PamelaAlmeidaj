@@ -21,4 +21,7 @@
   <a href="https://www.linkedin.com/in/pamelaalmeidaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a> 
   
+![share_temp_poseA.png](https://github.com/PamelaAlmeidaj/PamelaAlmeidaj/assets/150084610/93fbe2b7-357b-4845-9584-08299d5e37d2)
+
+
 </div>
